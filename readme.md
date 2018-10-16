@@ -1,6 +1,7 @@
 Documenting Architectural Decisions
 -----------------------------------
-Presented by: David Ayers, Principal Architect at [Credera](http://www.credera.com)
+Presented by: David Ayers, 
+Principal Architect at [Credera](http://www.credera.com)
 
 [@iamagiantnerd](https://twitter.com/iamagiantnerd), david.ayers@credera.com
 
